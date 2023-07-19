@@ -1,0 +1,129 @@
+@media (min-width: 320px) and (max-width: 767px){
+
+    .navbar-light .navbar-toggler {
+        border-color: #ffff;
+        margin-left: 57px;
+    }
+    .banner-text {
+        padding: 40px 50px 40px 10px;
+        margin-top: 100px;
+    }
+    .banner-text span {
+        font-size: 10px;
+        text-align: center;
+    }
+    input#birthdaytime {
+        padding: 5px 13px 5px 40px;
+    }
+    a.done {
+        margin-left: 50px;
+    }
+    .top-header-info {
+        text-align: center;
+    }
+    .top-header-social {
+        text-align: center;
+    }
+    .banner-text-ii h1 {
+        margin-top: 22px;
+        font-size: 26px;
+    }
+    .banner-text-ii h2 {
+        font-size: 26px;
+    }
+    .banner-text-ii h3 {
+        font-size: 20px;
+        margin-top: 0px;
+    }
+    .banner-text-ii h4 {
+        font-size: 20px;
+    }
+    .main-nav {
+        padding-top: 10px;
+        padding-bottom: 0px;
+        padding-left: 20px;
+    }
+    .about-text {
+        background: #ffff;
+        padding: 20px 0px 80px 0px;
+    }
+    h2.ggl-img {
+        top: 63%;
+        left: 11%;
+    }
+    .say-icon i {
+        font-size: 12px;
+        color: rgb(255, 180, 0) !important;
+        margin-left: 6px;
+    }
+    .say-icon span {
+        font-size: 16px;
+        margin-left: 4px;
+    }
+    .say-icon {
+        margin-left: 100px;
+        margin-top: 30px;
+    }
+    .battan {
+        position: absolute;
+        right: 75px;
+        top: 100%;
+    }
+    .company-info {
+        padding: 10px 10px 10px 10px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        margin-left: 8px;
+        margin-right: 8px;
+        border-radius: 10px;
+    }
+    .trns-tex h4 {
+        color: #31708f;
+        font-size: 24px;
+        font-weight: 500;
+    }
+    
+.aropl {
+    position: absolute;
+    left: 0px;
+    top: -6px;
+    font-size: 28px;
+    color: #31708F;
+    /* padding-top: 9px; */
+}
+.trns-tex h4 {
+    font-size: 23px;
+}
+.trns-tex p {
+    font-size: 16px;
+}
+.trns-tex {
+    padding-left: 14px;
+    margin-bottom: 30px;
+}
+
+select.form-select-resevtion {
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.reservation-area {
+    padding: 15px 0px 15px 0;
+    margin-bottom: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 25px;
+}
+select {
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+input#date-time {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.btn-primary {
+    margin-left: 15px;
+    margin-top: 18px;
+}
+}
